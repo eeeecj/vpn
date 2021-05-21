@@ -12,5 +12,5 @@
 #### :arrow_double_down: [官方网站链接](https://appshare.onelink.me/7uiT/a60e7e13)
 ---
 ### 免费福利：
-#### :gift: 下载快连VPN。即可免费领取翻墙会员！
-#### :gift: 填写朋友的推荐ID，还能领取额外会员！
+#### :gift: 下载快连VPN，免费领取翻墙会员！
+#### :gift: 填写朋友的推荐ID，还能领取额外福利！

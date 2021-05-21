@@ -1,18 +1,18 @@
 
 ## 快连VPN - 永远能连上的 VPN！
->#### :earth_africa: 稳定运行已经超过1500天！
->#### :lock: 不需要任何信息即可注册！
->#### :rocket: 无需配置,一键连接，3秒肯定能连上！
->#### :man: 已经助力亚太地区2000W+用户翻墙！
+#### :earth_africa: 稳定运行已经超1500天！
+#### :lock: 无需任何信息即可注册！
+#### :rocket: 无需配置,3秒内连接！
+#### :man: 已经助力2000W+用户翻墙！
 ---
 ## 下载直通车：
->#### :warning:微信若无法访问，请在右上角选择浏览器打开!
->#### :arrow_double_down: [iOS 版本下载教程](https://appshare.onelink.me/7uiT/d4ba1147 )
->#### :arrow_double_down: [Android 版本.APK](https://appshare.onelink.me/7uiT/d4ba1147 )
->#### :arrow_double_down: [Windows 版本.exe](https://appshare.onelink.me/7uiT/cd934bda)
->#### :arrow_double_down: [macOS 版本.dmg](https://appshare.onelink.me/7uiT/1ed3d477)
->#### :arrow_double_down: [官方网站链接](https://appshare.onelink.me/7uiT/a60e7e13)
+#### :warning:微信若无法访问，请在浏览器打开!
+#### :arrow_double_down: [iOS 版本下载教程](https://appshare.onelink.me/7uiT/d4ba1147 )
+#### :arrow_double_down: [Android 版本.APK](https://appshare.onelink.me/7uiT/d4ba1147 )
+#### :arrow_double_down: [Windows 版本.exe](https://appshare.onelink.me/7uiT/cd934bda)
+#### :arrow_double_down: [macOS 版本.dmg](https://appshare.onelink.me/7uiT/1ed3d477)
+#### :arrow_double_down: [官方网站链接](https://appshare.onelink.me/7uiT/a60e7e13)
 ---
 ## 免费福利：
->#### :gift: 下载快连VPN后，可以免费领取会员！
->#### :gift: 填写朋友的推荐ID，还能领取额外的会员！
+#### :gift: 下载快连VPN后，可以免费领取会员！
+#### :gift: 填写朋友的推荐ID，还能领取额外的会员！
